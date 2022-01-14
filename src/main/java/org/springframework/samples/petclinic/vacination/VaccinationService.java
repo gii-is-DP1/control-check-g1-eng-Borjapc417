@@ -32,6 +32,4 @@ public class VaccinationService {
         	return vaccinationRepository.save(p);
         }      
     }
-
-    
 }
